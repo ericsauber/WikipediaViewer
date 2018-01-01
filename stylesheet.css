@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+#logo {
+  text-align:center;
+}
+
+h1 {
+  font-family: 'Lobster';
+  font-size:100px;
+}
+
+#main {
+	text-align:center;
+}
+
+.thing {
+
+	border-style: solid;
+	border-width: 1px;
+	margin:-15px;
+	padding:5px;
+	background-color:#EBEBEB;
+}
+
+.output {
+	font-family: 'Nunito';
+	color:white;
+	font-weight: bold;
+	font-size: 30px;
+	margin:20px;
+}
+
+#location {
+	font-size: 45px; 
+	color:#A5B0BD;
+}
+
+#results {
+	width:50%;
+	margin:auto;
+	text-align:left;
+	margin-top:20px;
+	padding:5px;
+}
+
+#middle {
+	margin:auto;
+	text-align: center;
+}
